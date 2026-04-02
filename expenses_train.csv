@@ -1,0 +1,103 @@
+text,category
+McDonald's dinner,Food
+McDonalds bill,Food
+McDonald's breakfast,Food
+KFC chicken meal,Food
+KFC food bill,Food
+Starbucks coffee,Food
+Starbucks latte payment,Food
+Subway sandwich,Food
+Dominos pizza order,Food
+Burger King meal,Food
+Pizza Hut bill,Food
+Chai Point tea,Food
+CCD coffee bill,Food
+Taco Bell order,Food
+FreshMenu lunch,Food
+Zomato delivery,Food
+Swiggy order,Food
+Restaurant bill Bangalore,Food
+Cafe bill Mumbai,Food
+Ola cab ride,Travel
+Ola invoice,Travel
+Uber trip Bangalore,Travel
+Uber airport ride,Travel
+Indigo flight ticket,Travel
+AirAsia booking,Travel
+Vistara flight booking,Travel
+Metro card recharge,Travel
+BMTC bus ticket,Travel
+Train ticket IRCTC,Travel
+Rapido bike ride,Travel
+Bangalore taxi service,Travel
+Ola outstation ride,Travel
+MakeMyTrip bus booking,Travel
+Amazon purchase,Shopping
+Amazon online order,Shopping
+Flipkart order,Shopping
+Myntra clothing purchase,Shopping
+Ajio fashion order,Shopping
+Zara shopping,Shopping
+H&M mall purchase,Shopping
+Reliance Trends clothing,Shopping
+Big Bazaar shopping,Shopping
+DMart home items,Shopping
+Croma electronics,Shopping
+Vijay Sales product,Shopping
+Apple Store accessories,Shopping
+Decathlon sports purchase,Shopping
+Petrol at Shell,Fuel
+Shell fuel bill,Fuel
+HP petrol station,Fuel
+HPCL fuel payment,Fuel
+Indian Oil petrol,Fuel
+BPCL fuel station,Fuel
+Diesel refill,Fuel
+Car fuel refill,Fuel
+Bike petrol refill,Fuel
+Petrol bunk Bangalore,Fuel
+Electricity bill payment,Utilities
+BESCOM bill,Utilities
+Water bill payment,Utilities
+BWSSB water charges,Utilities
+Airtel broadband bill,Utilities
+JioFiber internet bill,Utilities
+Vodafone postpaid bill,Utilities
+Mobile recharge prepaid,Utilities
+Gas cylinder booking,Utilities
+Power bill state electricity,Utilities
+Vegetables from supermarket,Groceries
+Groceries at DMart,Groceries
+Groceries BigBasket,Groceries
+Grocery store purchase,Groceries
+Milk and bread store,Groceries
+Fresh fruits bill,Groceries
+Daily grocery shopping,Groceries
+Supermarket vegetables purchase,Groceries
+Hypermarket bill,Groceries
+Daily needs mart,Groceries
+Movie ticket PVR,Entertainment
+PVR cinema booking,Entertainment
+INOX movie ticket,Entertainment
+Netflix subscription,Entertainment
+Spotify subscription,Entertainment
+Zee5 subscription,Entertainment
+Disney Hotstar bill,Entertainment
+BookMyShow booking,Entertainment
+Gaming recharge,Entertainment
+Amusement park entry,Entertainment
+Cafe Coffee Day bill,Food
+Coffee shop bill,Food
+Airport lounge food,Food
+Airport cab service,Travel
+Bus pass recharge,Travel
+Fashion store shopping,Shopping
+Online electronics order,Shopping
+Energy bill payment,Utilities
+Cooking gas refill,Utilities
+Diesel station payment,Fuel
+Supermarket purchase groceries,Groceries
+Weekend movie plan,Entertainment
+Multiplex ticket booking,Entertainment
+Swiggy Instamart order,Groceries
+BigBasket fruits order,Groceries
